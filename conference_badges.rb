@@ -1,6 +1,6 @@
 # Write your code here.
 
 def batch_badge_creator(array)
-  array.each { |x|
-    
+  array.collect { |x|
+    ""
 end
