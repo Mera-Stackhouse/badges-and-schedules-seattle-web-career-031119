@@ -22,5 +22,5 @@ def printer(array)
 end
 
 
-array = [mera, rayna, denise, frank]
+array = ["mera", "rayna", "denise", "frank"]
 printer(array)
