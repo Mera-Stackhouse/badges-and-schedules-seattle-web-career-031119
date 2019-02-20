@@ -19,7 +19,7 @@ end
 ##
 #def assign_rooms(array)
 # array.each_with_index { |x, i|
-#   "Hello, #{x}! You'll be assigned to room #{(i +1)}!"
+#   "Hello, #{x}! You'll be assigned to room #{(i + 1)}!"
 # }
 #end
 
